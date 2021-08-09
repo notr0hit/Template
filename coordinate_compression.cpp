@@ -26,6 +26,6 @@ int main() {
     }
 
     //Now Array *A* is compressed to *comp* 
-    // relative position of Array can be accesed using index of A[i]
+    // relative position of Array can be accesed using A[i] as index in map *comp*
 
 }
